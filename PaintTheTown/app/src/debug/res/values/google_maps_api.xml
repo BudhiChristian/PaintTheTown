@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE doc [
-    <!ENTITY apiKey SYSTEM "properties.xml">
+    <!ENTITY apiKey SYSTEM "./app/src/debug/res/values/properties.xml">
     ]>
 <resources>
     &apiKey;
